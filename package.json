@@ -1,0 +1,24 @@
+{
+  "name": "com.wowlabz.packagename",
+  "version": "0.0.1",
+  "displayName": "New Wow Package",
+  "description": "This is an example wow package",
+  "unity": "2021.3",
+  "unityRelease": "14f1",
+  "documentationUrl": "https://wowlabz.com/",
+  "changelogUrl": "https://wowlabz.com/",
+  "licensesUrl": "https://wowlabz.com/",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.0"
+ },
+ "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Vinay Vidyasagar",
+    "email": "vinay.vidyasagar@wowlabz.com",
+    "url": "https://wowlabz.com"
+  }
+}
