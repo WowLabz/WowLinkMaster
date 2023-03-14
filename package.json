@@ -1,8 +1,8 @@
 {
-  "name": "com.wowlabz.packagename",
+  "name": "com.wowlabz.wow-link-master",
   "version": "0.0.1",
-  "displayName": "New Wow Package",
-  "description": "This is an example wow package",
+  "displayName": "Wow Link Master",
+  "description": "This piece of code works as a plugin to interact with your browser and helps redirect a window ",
   "unity": "2021.3",
   "unityRelease": "14f1",
   "documentationUrl": "https://wowlabz.com/",
